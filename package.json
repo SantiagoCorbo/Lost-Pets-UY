@@ -1,0 +1,12 @@
+{
+  "name": "lost-pets-uy",
+  "version": "1.0.0",
+  "description": "As pet owners that we are, one of our biggest fears is that our beloved babies get lost. We are trying to crearte a database for lost pets in Uruguay.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
